@@ -1,7 +1,7 @@
 # RL10-RO
 Welcome to RL10-RO, the mod that hopes to include every RL10 engine variant.
 
-![RL10-ROIcon2](https://github.com/LemnscateBiscuit/RL10-RO/assets/144538208/be29cc06-d3fe-4b2a-a15b-91388ef61d14)
+![RL10-ROIcon3](https://github.com/LemnscateBiscuit/RL10-RO/assets/144538208/a6760ebc-6573-4357-97c0-b44cb0db5f10)
 ![RL10A-5 Plume](https://github.com/LemnscateBiscuit/RL10-RO/assets/144538208/35553948-e1ae-4b77-bd3a-04bd97f2399d)
 ![RL10 Methane](https://github.com/LemnscateBiscuit/RL10-RO/assets/144538208/140df1ab-c925-493a-b053-642151cfeff8)
 
@@ -107,6 +107,32 @@ Thrust: 6.5976 t
 
 Isp: 248.67 s
 
+**RL10B-X**
+
+Mass: 317 kg
+
+Thrust: 9.52 t
+
+Isp: 313.33 s
+
+**RL10C-1​**
+
+Mass: 188 kg
+
+Thrust: 10.39 t
+
+Isp: 299.8 s
+
+**RL10C-1-1​**
+
+Mass: 188 kg
+
+Thrust: 10.8 t
+
+Isp: 302.5 s
+
 # All Engines
-![RL10 Gallery New](https://github.com/LemnscateBiscuit/RL10-RO/assets/144538208/ee6c5c06-e330-4a2f-bb10-43e9b9652326)
-**From left to right: RL10A-1, RL10A-3, RL10A-3-1, RL10A-3-3, RL10A-3-3A, RL10A-3-3B, RL10A-3C, RL10A-3S, RL10A-4 ,RL10A-4-1, RL10A-4-2, RL10A-4-2N, RL10A-4 Methane, RL10A-5**
+![Screenshot 2024-04-30 180630](https://github.com/LemnscateBiscuit/RL10-RO/assets/144538208/68612131-041b-42e8-bfac-4007052f13b9)
+**Top row, left to right: RL10A-1, RL10A-3, RL10A-3-1, RL10A-3-3, RL10A-3-3A, RL10A-3-3B, RL10A-3C, RL10A-3S, RL10A-4 ,RL10A-4-1, RL10A-4-2, RL10A-4-2N, RL10A-4 Methane, RL10A-5**
+**Middle row: RL10B-X
+Bottom row, left to right: RL10C-1, RL10C-1-1**
