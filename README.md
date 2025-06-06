@@ -222,3 +222,5 @@ Isp: 233.333 s
 **Third row, left to right: RL10B-2**
 
 **Fourth row, left to right: RL10C-1, RL10C-1A, RL10C-1-1, RL10C-1-1A, RL10C-2, RL10C-2-1, RL10C**
+
+**Fifth row, left to right: CECE Demo, CECE High, CECE Methane**
