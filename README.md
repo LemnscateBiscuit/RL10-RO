@@ -213,6 +213,30 @@ Thrust: 6.8038 t
 
 Isp: 233.333 s
 
+**Category I RL10**
+
+Mass: 132 kg
+
+Thrust: 6.8038 t
+
+Isp: 292 s
+
+**Category II RL10**
+
+Mass: 142 kg
+
+Thrust: 6.8038 t
+
+Isp: 293.333 s
+
+**XR102-5 Testbed**
+
+Mass: 100 kg (estimate)
+
+Thrust: 6.5899 t
+
+Isp: 279.883
+
 # All Engines
 ![Screenshot 2025-06-06 093600](https://github.com/user-attachments/assets/97998153-53e5-4b16-8967-f92f824034bd)
 **First row, left to right: RL10A-1, RL10A-3, RL10A-3A, RL10A-3C, RL10A-3S, RL10A-3-1, RL10A-3-3, RL10A-3-3A, RL10A-3-3B**
